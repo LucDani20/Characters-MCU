@@ -1,0 +1,51 @@
+{
+  "persons": [
+    {
+      "id": 1,
+      "name": "Spider-Man",
+      "realName": "Peter Parker",
+      "universe": "Earth-616"
+    },
+    {
+      "id": 2,
+      "name": "Iron Man",
+      "realName": "Tony Stark",
+      "universe": "Earth-616"
+    },
+    {
+      "id": 3,
+      "name": "Captain America",
+      "realName": "Steve Rogers",
+      "universe": "Earth-616"
+    },
+    {
+      "id": 4,
+      "name": "Black Widow",
+      "realName": "Natasha Romanoff",
+      "universe": "Earth-616"
+    },
+    {
+      "id": 5,
+      "name": "Black Panther",
+      "realName": "T'Challa",
+      "universe": "Earth-616"
+    },
+    {
+      "id": 6,
+      "name": "Doctor Strange",
+      "realName": "Stephen Strange",
+      "universe": "Earth-616"
+    },
+    {
+      "id": 7,
+      "name": "Scarlet Witch",
+      "realName": "Wanda Maximoff",
+      "universe": "Earth-616"
+    },
+    {
+      "name": "Hulk",
+      "universe": "Earth-616",
+      "id": 8
+    }
+  ]
+}
