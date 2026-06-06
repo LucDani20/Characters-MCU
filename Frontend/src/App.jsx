@@ -1,14 +1,7 @@
 import List from './MCU_List/List'
-import './App.css'
 
 function App() {
-
-  return (
-    <>
-        <List></List>
-    </>
-
-  )
+  return <List />
 }
 
 export default App

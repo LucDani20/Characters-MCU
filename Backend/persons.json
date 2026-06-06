@@ -43,9 +43,10 @@
       "universe": "Earth-616"
     },
     {
+      "id": 8,
       "name": "Hulk",
-      "universe": "Earth-616",
-      "id": 8
+      "realName": "Bruce Banner",
+      "universe": "Earth-616"
     }
   ]
 }
